@@ -24,4 +24,4 @@ def main():
     get_df().to_csv('./train/df2.csv')
 
 if __name__ == "__main__":
-    main()
+    main() 
